@@ -1,5 +1,7 @@
 # Speech To Text
 
+Package: [speech_to_text](https://pub.dev/packages/speech_to_text).
+
 ## Troubleshooting
 **Speech recognition stops after a brief pause on Android**
 Android speech recognition has a very short timeout when the speaker pauses.
