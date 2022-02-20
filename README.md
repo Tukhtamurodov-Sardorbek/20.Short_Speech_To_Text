@@ -39,3 +39,4 @@ Here's what the relevant part of that file looked like as of this writing:
 ```
 
 ![This is an image](assets/readme/img.png)
+
